@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "DY5AT5GR6U.xyz.pantryapp.pantryapp",
-        "paths": ["*"]
+        "paths": ["/", "/auth"]
       }
     ]
   }
