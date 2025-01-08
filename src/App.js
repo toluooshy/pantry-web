@@ -15,7 +15,7 @@ function App() {
         justifyContent: "center",
         textAlign: "center",
         height: "100%",
-        background: "linear-gradient(0deg, #f48fcc 0%, #df6c41 100%)",
+        background: "linear-gradient(180deg, #f48fcc 0%, #df6c41 100%)",
         flex: 1,
       }}
     >
