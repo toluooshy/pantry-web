@@ -1,13 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
         "appID": "DY5AT5GR6U.xyz.pantryapp.pantryapp",
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
+        "paths": ["*"]
       }
     ]
   }
